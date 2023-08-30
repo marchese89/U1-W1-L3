@@ -51,6 +51,7 @@ h1 + p {
 
 figure {
   text-align: center;
+  margin: 0;
 }
 
 figcaption {
